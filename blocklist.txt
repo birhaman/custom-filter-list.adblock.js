@@ -1,0 +1,9 @@
+! https://rutracker.org
+rutracker.org###logo
+rutracker.org###latest_news > .w100 > tbody > tr
+! https://www.nature.com
+www.nature.com##.cc-banner
+www.nature.com##.c-site-messages--is-visible.sans-serif.c-site-messages--nature-briefing-redesign-2020.c-site-messages--nature-briefing-email-variant.c-site-messages--nature-briefing.u-hide-print.message.c-site-messages
+
+! https://panel.proxyline.net
+panel.proxyline.net###jcont
